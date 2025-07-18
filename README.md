@@ -2,6 +2,7 @@
 
 Управление учётными записями с использованием Vue 3, Pinia, PrimeVue и Vitest.
 
+Ссылка на работу: https://vue-account-editor.vercel.app/ 
 ## 📦 Стек
 
 - Vue 3 (Composition API, TypeScript)
