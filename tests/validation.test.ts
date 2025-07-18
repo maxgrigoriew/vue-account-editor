@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest'
-import { validateAccount } from 'UTILS/validation'
-import { createEmptyAccount } from 'UTILS/account'
+import { validateAccount } from '../src/utils/validation'
+import { createEmptyAccount } from '../src/utils/account'
 
 describe('validateAccount', () => {
   it('should detect missing login', () => {
